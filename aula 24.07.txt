@@ -1,0 +1,8 @@
+C#
+* donete co da microsoft - vai rodar no windows.... varios jeitos de trabalhar com essa ferramenta
+Vai dar muito manutenção - * web forme - tecnologia antiga
+* HTTP
+core 9 core 7 
+8 G de ram
+
+sqlserver na infraestrutura local (em preto)
